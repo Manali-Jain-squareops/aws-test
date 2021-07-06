@@ -1,1 +1,1 @@
-echo "stop"
+sudo systemctl stop apache2
